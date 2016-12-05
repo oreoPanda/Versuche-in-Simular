@@ -19,3 +19,7 @@ Start:
   * git pull 		# aktuelle Version runterladen
 
   * git push            # für alle sichtbar hochladen
+
+email des Betreuers:
+
+nilspoehlmann92@gmail.com
