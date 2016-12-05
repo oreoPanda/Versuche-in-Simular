@@ -1,15 +1,21 @@
 Start:
 
   * git clone <SSH clone URL>
+
   * falls schon ausgecheckt: git pull
  
 Änderungen hochladen
 
   * git status		# gucken, was geändert ist
+
   * git diff		# genauer gucken, was geändert ist
 
   * git add <Dateien, die hochgeladen werden sollen>
+
+  * git add .		# alle Dateien, die verändert wurden übernehmen
+
   * git commit -m "<Beschreibung der Änderungen>"
 
   * git pull 		# aktuelle Version runterladen
-  * git push # für alle sichtbar hochladen
+
+  * git push            # für alle sichtbar hochladen
